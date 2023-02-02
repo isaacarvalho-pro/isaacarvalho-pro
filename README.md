@@ -1,9 +1,10 @@
 ### Muito prazer me chamo Isaac 👨‍💻👋
 ##
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacarvalho-pro&show_icons=true&theme=tokyonight)](https://github.com/isaacarvalho-pro/github-readme-stats)
- <img align="right" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-rinnegan-12.gif">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacarvalho-pro&layout=compact)](https://github.com/isaacarvalho-pro/github-readme-stats)
+ 
+<img align="right" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-rinnegan-12.gif">
 ##
 - 🔭 Atualmente me esforçando no front-end
 - 🌱 Estudando frameworks front-end
