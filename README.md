@@ -7,7 +7,7 @@
 
  
 <img align="right" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-rinnegan-12.gif">
-##
+
 - 🔭 Atualmente me esforçando no front-end
 - 🌱 Estudando frameworks front-end
 - 💭 Sonhando em ser Dev da minha própia big tech
