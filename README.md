@@ -1,5 +1,5 @@
 ### Muito prazer me chamo Isaac 👨‍💻👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacarvalho-pro)](https://github.com/isaacarvalho-pro/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacarvalho-pro&show_icons=true&theme=radical)](https://github.com/isaacarvalho-pro/github-readme-stats)
 ##
 - 🔭 Atualmente me esforçando no front-end
 - 🌱 Estudando frameworks front-end
