@@ -2,7 +2,7 @@
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacarvalho-pro&show_icons=true&theme=tokyonight)](https://github.com/isaacarvalho-pro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacarvalho-pro)](https://github.com/isaacarvalho-pro/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacarvalho-pro)](https://github.com/isaacarvalho-pro/github-readme-stats) --->
 ##
 
 - 🔭 Atualmente me esforçando no Back-end
