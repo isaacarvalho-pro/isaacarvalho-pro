@@ -5,13 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacarvalho-pro)](https://github.com/isaacarvalho-pro/github-readme-stats)
 ##
 
- 
-<img align="right" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-rinnegan-12.gif">
-
-- 🔭 Atualmente me esforçando no front-end
-- 🌱 Estudando frameworks front-end
-- 💭 Sonhando em ser Dev da minha própia big tech
-- ⚡ Fun fact: A primeira linguagem de programação que tive contato foi C# por causa da Unity
+- 🔭 Atualmente me esforçando no Back-end
+- 🌱 Estudando PHP e derivados
+- 💭 Quem sabe um dia ter minha propria big tech
+- 🎮 Conheci o mundo da programação por causa dos jogos
 ##
 
 <div style="display: inline_block"><br>
