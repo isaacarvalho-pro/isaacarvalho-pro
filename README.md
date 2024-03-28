@@ -1,4 +1,4 @@
-### Muito prazer me chamo Isaac tenho 19 anos e sou desenvolvedor Web 👨‍💻👋
+### Muito prazer me chamo Isaac, tenho 19 anos e sou desenvolvedor Web 👨‍💻👋
 ##
 
 
