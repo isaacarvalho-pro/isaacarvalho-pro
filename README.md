@@ -1,15 +1,14 @@
-### Muito prazer me chamo Isaac 👨‍💻👋
+### Muito prazer me chamo Isaac tenho 19 anos e sou desenvolvedor Web 👨‍💻👋
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacarvalho-pro&show_icons=true&theme=tokyonight)](https://github.com/isaacarvalho-pro/github-readme-stats)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacarvalho-pro)](https://github.com/isaacarvalho-pro/github-readme-stats) --->
 ##
+<div style="text-align: center;">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaacarvalho-pro&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaacarvalho-pro&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
-- 🔭 Atualmente me esforçando no Back-end
-- 🌱 Estudando PHP e derivados
-- 💭 Quem sabe um dia ter minha propria big tech
-- 🎮 Conheci o mundo da programação por causa dos jogos
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
